@@ -1,0 +1,35 @@
+
+
+/*Base of Css*/
+
+/* #How it works#
+
+Selector{
+   
+   property:value;
+}
+
+*/
+
+/*<link rel="stylesheet" type="text/css" href="style.css">
+*/
+
+
+/*make a secondary page/new page for the main page to design and then link the secondary page in the main page .
+
+Note: That(link) should be in the head section after the title*/ 
+
+
+h1{
+
+
+	color:red;
+	background-color: black;
+	text-align: center;
+	border: 50px solid black;
+}
+
+p{
+
+	color: blue;
+}
